@@ -2,9 +2,9 @@ This project makes the life of Students and Faculty life easy by allowing the fa
 
 To Run:
 
-python3 -m venv venv
-venv/bin/activate
-python3 manage.py runserver
+1. python3 -m venv venv
+2. venv/bin/activate
+3. python3 manage.py runserver
 
 # AttendanceManager
 
